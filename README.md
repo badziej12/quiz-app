@@ -2,6 +2,8 @@
 
 A simple interactive quiz application built with React and Vite.
 
+This application was one of the projects created between January and May 2025. Just got them pushed at once to the Github.
+
 ## Features
 
 - Multiple-choice questions with shuffled answers
